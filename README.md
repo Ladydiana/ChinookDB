@@ -33,3 +33,6 @@
 		-> Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert.
 		-> Let's invite the artists who have written the most rock music in our dataset. 
 		-> Write a query that returns the Artist name and total track count of the top 10 rock bands. 
+- ##### Question 3:
+		First, find which artist has earned the most according to the InvoiceLines?
+		Now use this artist to find which customer spent the most on this artist.
