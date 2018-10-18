@@ -1,5 +1,5 @@
 /*
-Question 2: Who is writing the rock music? 
+Question 2: Who is writing the rock music?
 
 -> Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert.
 -> Let's invite the artists who have written the most rock music in our dataset. 
