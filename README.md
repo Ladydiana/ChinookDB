@@ -50,9 +50,9 @@
 	
 	 :bulb: Write a query that returns the Artist name and total track count of the top 10 rock bands. 
 - ##### Question 3:
-	First, find which artist has earned the most according to the InvoiceLines?
+	 :bulb: First, find which artist has earned the most according to the InvoiceLines?
 	
-	Now use this artist to find which customer spent the most on this artist.
+	 :bulb: Now use this artist to find which customer spent the most on this artist.
 
 		
 ### Set 3:
