@@ -8,14 +8,22 @@
 ### Set 1:
 - ##### Question 1: 
     Which countries have the most Invoices?
+	
 		-> Use the Invoice table to determine the countries that have the most invoices. 
+		
         -> Provide a table of BillingCountry and Invoices ordered by the number of invoices for each country. 
+		
         -> The country with the most invoices should appear first.
+		
 - ##### Question 2: 
-        Which city has the best customers?
+    Which city has the best customers?
+	
 		-> We would like to throw a promotional Music Festival in the city we made the most money. 
+		
         -> Write a query that returns the 1 city that has the highest sum of invoice totals. 
+		
         -> Return both the city name and the sum of all invoice totals.
+		
 - ##### Question 3: 
         Who is the best customer?
 		-> The customer who has spent the most money will be declared the best customer. 
