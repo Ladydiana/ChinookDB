@@ -29,10 +29,18 @@
 		-> Return your list ordered alphabetically by email address starting with A. 
         -> Can you find a way to deal with duplicate email addresses so no one receives multiple emails? 
 - ##### Question 2:
-		 Who is writing the rock music?
+		Who is writing the rock music?
 		-> Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert.
 		-> Let's invite the artists who have written the most rock music in our dataset. 
 		-> Write a query that returns the Artist name and total track count of the top 10 rock bands. 
 - ##### Question 3:
 		First, find which artist has earned the most according to the InvoiceLines?
 		Now use this artist to find which customer spent the most on this artist.
+
+		
+### Set 3:
+- ##### Question 1: 
+		We want to find out the most popular music Genre for each country. 
+		-> We determine the most popular genre as the genre with the highest amount of purchases. 
+		-> Write a query that returns each country along with the top Genre. 
+		-> For countries where the maximum number of purchases is shared return all Genres.
