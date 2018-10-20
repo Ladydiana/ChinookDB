@@ -9,46 +9,46 @@
 - ##### Question 1: 
     Which countries have the most Invoices?
 	
-	 :paperclip: Use the Invoice table to determine the countries that have the most invoices. 
+	 :bulb: Use the Invoice table to determine the countries that have the most invoices. 
 	
-     :paperclip: Provide a table of BillingCountry and Invoices ordered by the number of invoices for each country. 
+     :bulb: Provide a table of BillingCountry and Invoices ordered by the number of invoices for each country. 
 	
-     :paperclip: The country with the most invoices should appear first.
+     :bulb: The country with the most invoices should appear first.
 		
 - ##### Question 2: 
     Which city has the best customers?
 	
-	 :paperclip: We would like to throw a promotional Music Festival in the city we made the most money. 
+	 :bulb: We would like to throw a promotional Music Festival in the city we made the most money. 
 	
-     :paperclip: Write a query that returns the 1 city that has the highest sum of invoice totals. 
+     :bulb: Write a query that returns the 1 city that has the highest sum of invoice totals. 
 	
-     :paperclip: Return both the city name and the sum of all invoice totals.
+     :bulb: Return both the city name and the sum of all invoice totals.
 		
 - ##### Question 3: 
     Who is the best customer?
 	
-	 :paperclip: The customer who has spent the most money will be declared the best customer. 
+	 :bulb: The customer who has spent the most money will be declared the best customer. 
 	
-     :paperclip: Build a query that returns the person who has spent the most money. 
+     :bulb: Build a query that returns the person who has spent the most money. 
     
-	 :paperclip: I found the solution by linking the following three: Invoice, InvoiceLine, and Customer tables to retrieve this information, but you can probably do it with fewer!
+	 :bulb: I found the solution by linking the following three: Invoice, InvoiceLine, and Customer tables to retrieve this information, but you can probably do it with fewer!
 
 
 ### Set 2:
 - ##### Question 1: 
     Return the email, first name, last name, and Genre of all Rock Music listeners.
 	
-	 :paperclip: Return your list ordered alphabetically by email address starting with A. 
+	 :bulb: Return your list ordered alphabetically by email address starting with A. 
     
-	 :paperclip: Can you find a way to deal with duplicate email addresses so no one receives multiple emails? 
+	 :bulb: Can you find a way to deal with duplicate email addresses so no one receives multiple emails? 
 - ##### Question 2:
 	Who is writing the rock music?
 	
-	 :paperclip: Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert.
+	 :bulb: Now that we know that our customers love rock music, we can decide which musicians to invite to play at the concert.
 	
-	 :paperclip: Let's invite the artists who have written the most rock music in our dataset. 
+	 :bulb: Let's invite the artists who have written the most rock music in our dataset. 
 	
-	 :paperclip: Write a query that returns the Artist name and total track count of the top 10 rock bands. 
+	 :bulb: Write a query that returns the Artist name and total track count of the top 10 rock bands. 
 - ##### Question 3:
 	First, find which artist has earned the most according to the InvoiceLines?
 	
@@ -59,9 +59,9 @@
 - ##### Question 1: 
 	We want to find out the most popular music Genre for each country. 
 	
-	 :paperclip: We determine the most popular genre as the genre with the highest amount of purchases. 
+	 :bulb: We determine the most popular genre as the genre with the highest amount of purchases. 
 	
-	 :paperclip: Write a query that returns each country along with the top Genre. 
+	 :bulb: Write a query that returns each country along with the top Genre. 
 	
-	 :paperclip: For countries where the maximum number of purchases is shared return all Genres.
+	 :bulb: For countries where the maximum number of purchases is shared return all Genres.
 	
