@@ -68,3 +68,9 @@
 	Return all the track names that have a song length longer than the average song length. 
 	
 	:bulb: Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first. 
+- ##### Question 3: 
+	Write a query that determines the customer that has spent the most on music for each country. 
+	
+	:bulb: Write a query that returns the country along with the top customer and how much they spent. 
+	
+	:bulb: For countries where the top amount spent is shared, provide all customers who spent this amount.
