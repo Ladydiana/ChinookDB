@@ -64,4 +64,7 @@
 	 :bulb: Write a query that returns each country along with the top Genre. 
 	
 	 :bulb: For countries where the maximum number of purchases is shared return all Genres.
+- ##### Question 2:
+	Return all the track names that have a song length longer than the average song length. 
 	
+	:bulb: Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first. 
